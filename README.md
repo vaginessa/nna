@@ -2,7 +2,7 @@
 	<img src="https://github.com/haya3218/nna/raw/master/images/AboutImage.png"> 
 </p>
 
-# nna
+# nna 🇳 🇳 🇦
 
 nna (recursive backronym for *nna's not apt*, formerly AllYourFault) is a scoop gui and a windows toolbox.
 
